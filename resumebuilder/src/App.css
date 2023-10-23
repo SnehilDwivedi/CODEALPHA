@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-image: linear-gradient(to right,rgb(244, 126, 246),rgb(172, 70, 232));
+  color: white;
+
+}
+
+
+/* input{
+  width: 200px;
+  position: relative;
+  left: 60%;
+} */
