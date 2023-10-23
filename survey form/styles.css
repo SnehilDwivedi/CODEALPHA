@@ -1,0 +1,21 @@
+body {
+    background-image: url('C2.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    text-align: center;
+    font-family: Arial, sans-serif; 
+    color: white;
+}
+
+.container {
+    padding: 100px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 24px;
+}
